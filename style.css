@@ -1,0 +1,58 @@
+.title {
+  font-family: "Palanquin Dark", sans-serif;
+  color: azure;
+}
+
+.header-css {
+  background-color: rgb(51, 140, 230);
+}
+
+.div-container {
+  display: block;
+  margin: auto;
+  padding: 30px;
+  align-content: center;
+}
+
+.badge-items {
+  margin: 15px 0 15px 0;
+}
+
+.bg-album {
+    background-color: rgb(51, 140, 230);
+}
+
+.icon-img {
+    border-radius: 50%;
+    height: 80px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: medium;
+  font-family: "Palanquin Dark", sans-serif;
+  font-weight: 100;
+}
+
+body {
+  background-image: url(images/DSC_5226.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: none;
+  padding: none;
+}
+
+/* hover */
+a:hover {
+  opacity: 0.8;
+}
+
+h1:hover {
+  cursor: default;
+  opacity: 0.9;
+}
+
+footer {
+  padding: 10px;
+}
